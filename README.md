@@ -7,3 +7,4 @@ I started on the journey of learning 100 days of python where i code each and ev
  ## Content ##
 
 - <b>Day 1 </b> - Printing, Commenting, Debugging, String Manipulation and Variables
+- <b>Day 2 </b> - Data Types, Numbers, Operations, Type conversion, f-strings

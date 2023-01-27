@@ -29,4 +29,59 @@ two_digit_number = input("Type a two digit number: ")
 # 🚨 Don't change the code above 👆
 print(int(two_digit_number[0])+ int(two_digit_number[1]))
 ####################################
+#Write your code below this line 
+# 
+
+def concat(a,b):
+  return str(a) + str(b)
+
+str_name = concat(23,32)
+
+
+# problem BMI calculator
+
+# 🚨 Don't change the code below 👇
+height = input("enter your height in m: ")
+weight = input("enter your weight in kg: ")
+# 🚨 Don't change the code above 👆
+
+BMI = int(int(weight)/ float(height) ** 2)
+
+print(BMI)
+
 #Write your code below this line 👇
+
+num = int(input("Please enter num "));
+
+value = num % 2
+
+type = ''
+
+if value == 0:
+  type = 'Even'
+else:
+  type = 'Odd'
+
+# f string 
+
+print(f"num {num} is {type}")
+
+# problem life in weeks
+
+# 🚨 Don't change the code below 👇
+age = input("What is your current age? ")
+# 🚨 Don't change the code above 👆
+
+#Write your code below this line 👇
+
+age_left = 90
+
+age_int = age_left - int(age)
+
+days = int(age_int * (365))
+
+weeks = int(age_int * 52)
+
+months = age_int * 12
+
+print(f"You have {days} days, {weeks} weeks, and {months} months left.")
