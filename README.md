@@ -11,3 +11,4 @@ I started on the journey of learning 100 days of python where i code each and ev
 - <b>Day 3 </b> - Conditional Statements, Logical Operators, Code Blocks and Scope
 - <b>Day 4 </b> - Randomisation and Python Lists
 - <b>Day 5 </b> - For Loops, Range and Code Blocks
+- <b>Day 6 </b> - Python Functions & karels
