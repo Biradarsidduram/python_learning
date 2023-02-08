@@ -14,3 +14,4 @@ I started on the journey of learning 100 days of python where i code each and ev
 - <b>Day 6 </b> - Python Functions & karels
 - <b>Day 7 </b> - Hangman Project
 - <b>Day 8 </b> - Function Parameters and Caesar Cipher
+- <b>Day 9 </b> - Dictionaries, Nesting and the Secret Auction
