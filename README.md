@@ -18,3 +18,4 @@ I started on the journey of learning 100 days of python where i code each and ev
 - <b>Day 10 </b> - Functions with Outputs
 - <b>Day 11 </b> - The BlackJack Capston Project
 - <b>Day 12 </b> - Scope & Number Guessing Game
+- <b>Day 13 </b> - Debugging: How to Find and Fix Errors in your code.
