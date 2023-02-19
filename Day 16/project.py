@@ -14,6 +14,7 @@ while True:
     break
   elif choice == 'report':
     coffeeMaker.report()
+    moneyMachine.report()
   else:
     menu_item = menu.find_drink(choice)
     if menu_item:
