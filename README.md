@@ -4,7 +4,7 @@
 
 I started on the journey of learning 100 days of python where i code each and every day starting 23rd Jan, 2023
 
- ## Content ##
+## Content
 
 - <b>Day 1 </b> - Printing, Commenting, Debugging, String Manipulation and Variables
 - <b>Day 2 </b> - Data Types, Numbers, Operations, Type conversion, f-strings
@@ -23,3 +23,4 @@ I started on the journey of learning 100 days of python where i code each and ev
 - <b>Day 15 </b> - Local Development Environment Setup & the Coffee Machine
 - <b>Day 16 </b> - Object Oriented Programming(OOP)
 - <b>Day 17 </b> - The Quiz Project & the Benefits of OOP
+- <b>Day 18 </b> - Turtle & the Graphical User Interface(GUI)
