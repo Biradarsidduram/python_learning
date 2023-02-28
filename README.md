@@ -25,3 +25,4 @@ I started on the journey of learning 100 days of python where i code each and ev
 - <b>Day 17 </b> - The Quiz Project & the Benefits of OOP
 - <b>Day 18 </b> - Turtle & the Graphical User Interface(GUI)
 - <b>Day 19 </b> - Instances, State and High Order Functions
+- <b>Day 20, 21 </b> - Build the Snake Game
