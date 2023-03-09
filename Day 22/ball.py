@@ -29,7 +29,7 @@ class Ball(Turtle):
   def change_angle_on_top_bottom_window_hit(self):
     screen_height = int((self.screen.window_height())/2)-20
     current_angle = super().heading()
-    current_y_pos = int(super().ycor())    
+    current_y_pos = int(super().ycor())
     tilted_angle = 0
     if current_y_pos >= screen_height:
       if current_angle <= 90 and current_angle >= 0:

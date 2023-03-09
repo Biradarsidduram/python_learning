@@ -1,5 +1,4 @@
 from turtle import Turtle
-from time import sleep
 
 
 class Paddle(Turtle):

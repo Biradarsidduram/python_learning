@@ -27,3 +27,4 @@ I started on the journey of learning 100 days of python where i code each and ev
 - <b>Day 19 </b> - Instances, State and High Order Functions
 - <b>Day 20, 21 </b> - Build the Snake Game
 - <b>Day 22 </b> - Build Pong: The Famous Arcade Game
+- <b>Day 23 </b> - The Turtle Crossing Capstone Project
