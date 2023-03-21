@@ -29,3 +29,4 @@ I started on the journey of learning 100 days of python where i code each and ev
 - <b>Day 22 </b> - Build Pong: The Famous Arcade Game
 - <b>Day 23 </b> - The Turtle Crossing Capstone Project
 - <b>Day 24 </b> - Files, Directories and Paths
+- <b>Day 25 </b> - Working With CSV Data and the Pandas Library
