@@ -30,3 +30,4 @@ I started on the journey of learning 100 days of python where i code each and ev
 - <b>Day 23 </b> - The Turtle Crossing Capstone Project
 - <b>Day 24 </b> - Files, Directories and Paths
 - <b>Day 25 </b> - Working With CSV Data and the Pandas Library
+- <b>Day 26 </b> - List Comprehension and the NATO Alphabet
