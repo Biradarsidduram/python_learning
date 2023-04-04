@@ -32,3 +32,4 @@ I started on the journey of learning 100 days of python where i code each and ev
 - <b>Day 25 </b> - Working With CSV Data and the Pandas Library
 - <b>Day 26 </b> - List Comprehension and the NATO Alphabet
 - <b>Day 27 </b> - Tkinter, \*args, \*\*kwargs and Creating GUI Programs
+- <b>Day 28 </b> - Building a Pomodoor App using Tkinter
